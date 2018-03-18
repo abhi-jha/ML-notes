@@ -709,3 +709,30 @@ involving random quantities.
 >The mean() and var() functions can be used to compute the mean and mean()
 var() variance of a vector of numbers. Applying sqrt() to the output of var()
 will give the standard deviation.
+
+
+>It is often a good idea
+to view a data set using a text editor or other software such as Excel before
+loading it into R.
+
+> c(), length(), ls(), rm(),rm(lsit=ls())
+
+>matrix(), sqrt(), x^2, rnorm(), cor()
+
+>set.seed(), mean(), var(), sd(), sqrt(var())
+
+>plot(),pdf(), image(), dev.off()
+
+>seq(), 1:10, outer(), countour(), t(),image(), persp(), dim()
+
+>read.table(), write.table(), read.csv(), getwd(), setwd()
+
+>fix(), na.omit(),names()
+
+>attach()
+
+>plot(a$1, a$2)
+
+>hist(), pairs(), identify(),summary()
+
+>savehistory(), loadhistory(), q()
