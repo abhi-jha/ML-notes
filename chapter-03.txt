@@ -580,4 +580,10 @@ summary (lm(medv~(lstat*age) ,data=Boston))
 package_version(R.version),
 getRversion(),lm.fit=lm(Sales~.+Income :Advertising +Price:Age ,data=Carseats ),
 contrasts (ShelveLoc)
+c
 
+>P = 1/1+ e^-(a+bx)
+
+>exp(1.563)=4.773119
+
+Probability = 4.773119 / (1 + 4.773119) = 0.8267
